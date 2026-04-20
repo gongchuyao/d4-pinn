@@ -1,0 +1,10 @@
+# Core dependencies (required for all basic usage)
+torch>=1.8.0
+numpy>=1.21.0
+matplotlib>=3.4.0
+tqdm>=4.62.0
+
+# Optional dependencies
+scipy>=1.7.0          # For KDE density plots and statistics
+seaborn>=0.11.0       # For seaborn-style figures
+escnn>=1.0.0          # For the full ESCNN model (optional)
