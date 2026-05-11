@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.abs
+*.spl
+*.synctex*
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Output directories from experiment runs
+output_202[0-9]*/
+output_aerospace/
+_tikz_tmp/
+_devtools/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
